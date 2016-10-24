@@ -1,10 +1,12 @@
-package com.coetzee.kobus.stormy;
+package com.coetzee.kobus.stormy.ui;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.content.Context;
 import android.os.Bundle;
+
+import com.coetzee.kobus.stormy.R;
 
 /**
  * Created by Kobus on 10/22/2016.

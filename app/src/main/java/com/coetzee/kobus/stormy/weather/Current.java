@@ -1,4 +1,6 @@
-package com.coetzee.kobus.stormy;
+package com.coetzee.kobus.stormy.weather;
+
+import com.coetzee.kobus.stormy.R;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -8,7 +10,7 @@ import java.util.TimeZone;
  * Created by Kobus on 10/22/2016.
  */
 
-public class CurrentWeather {
+public class Current {
     private String mIcon;
     private long mTime;
     private double mTemperature;
